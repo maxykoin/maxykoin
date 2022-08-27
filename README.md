@@ -4,6 +4,8 @@
 <a href="https://github.com/maxykoin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxykoin&show_icons=true&theme=merko&count_private=true&locale=en"/>
 </a>
+
 <a href="https://github.com/maxykoin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxykoin&layout=compact&theme=merko&count_private=true/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxykoin&layout=compact&theme=merko&count_private=true/" />
 </a>
+
