@@ -2,14 +2,13 @@
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maxykoin)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/chaospieces)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxykoin&hide=html&layout=compact&theme=highcontrast&hide_progress=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxykoin&hide=html&layout=compact&theme=highcontrast&exclude_repo=Vault2&hide_progress=true">
 
-### Data Science Undergrad | Advanced Manufacturing Operator and Programmer
-<p>Studying at <a href= "https://agead.ufms.br/tecnologia-em-ciencia-dos-dados">UFMS</a> & working at <a href= "https://www.bosch.com.br/">Bosch</a></p>
+## Mechatronics Engineering & Data Science Undergraduate
+<p>Studying at <a href="https://www.unisenaipr.com.br/cursos/graduacao/engenharia-mecatronica?modalidade=Presencial">UniSenai</a> & <a href= "https://agead.ufms.br/tecnologia-em-ciencia-dos-dados">UFMS</a> & working at <a href= "https://www.bosch.com.br/">Bosch</a></p>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=python)
