@@ -5,7 +5,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxykoin&hide=html&layout=compact&theme=highcontrast&exclude_repo=Vault2&hide_progress=true">
 
 ## Mechatronics Engineering & Data Science Undergraduate
-<p>Studying at <a href="https://www.unisenaipr.com.br/cursos/graduacao/engenharia-mecatronica?modalidade=Presencial">UniSenai</a> & <a href= "https://agead.ufms.br/tecnologia-em-ciencia-dos-dados">UFMS</a> & working at <a href= "https://www.bosch.com.br/">Bosch</a></p>
+<p>Studying at <a href="https://www.unisenaipr.com.br/cursos/graduacao/engenharia-mecatronica?modalidade=Presencial">UniSenai</a> & <a href= "https://agead.ufms.br/tecnologia-em-ciencia-dos-dados">UFMS</a> + working at <a href= "https://www.bosch.com.br/">Bosch</a></p>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
