@@ -44,7 +44,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxykoin&show_icons=true&theme=radical&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=maxykoin&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxykoin&show_icons=true&theme=radical&count_private=true" height="180px" />
+  <img src="https://streak-stats.demolab.com?user=maxykoin&theme=radical&border=FFFFFF&ring=FF4500" height="180px" />
+</div>
