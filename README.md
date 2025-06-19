@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Nina!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Data+Scientist+%7C+Python+Dev;Building+full-stack+projects+with+Django;Loves+clean+design+%26+functional+code;Always+learning+something+new!" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9623FF&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Data+Scientist+%7C+Python+Dev;Building+Full-Stack+projects+with+Django" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -34,6 +34,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-%2300599C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 
