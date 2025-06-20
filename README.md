@@ -46,5 +46,4 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=maxykoin&show_icons=true&theme=radical&count_private=true" height="180px" />
-  <img src="https://streak-stats.demolab.com?user=maxykoin&theme=radical&border=FFFFFF&ring=FF4500" height="180px" />
 </div>
