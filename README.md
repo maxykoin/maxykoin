@@ -46,4 +46,5 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=maxykoin&show_icons=true&theme=radical&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxykoin&hide=javascript,css,scss,html&theme=radical&count_private=true" height="180px"/>
 </div>
